@@ -8,4 +8,11 @@ Esta aplicación cuenta con herramientas las cuales se adaptan al usuario, ya se
 
 
 Link de los mockups:
-https://wireframepro.mockflow.com/editor.jsp?editor=off&publicid=Mdb4f7d1ee231c5b8c947bfd5eba4fba41728075915949&projectid=MKvgYF6S4ob&perm=Owner&space=MCtV4A6S4ob#/page/6f440955565a42bebe835f5abdd238ed/mode/design
+Registro:![image](https://github.com/user-attachments/assets/98c0336d-b2ed-4c86-8486-462c54e9206f)
+Inicio_sesión:![image](https://github.com/user-attachments/assets/ca2bbc8f-1603-4f69-80a5-295c23af12fa)
+Principal:![image](https://github.com/user-attachments/assets/9748c8ee-bf5a-4ab7-9bb7-6832cbf3ae59)
+Vista_ejercicios:![image](https://github.com/user-attachments/assets/e06ad208-7163-4350-aa27-f1b06fbb24c2)
+Registro_ejercicios:![image](https://github.com/user-attachments/assets/c5dd3def-4f29-4fa6-991d-9edc717e08b7)
+Lista_ejercicios:![image](https://github.com/user-attachments/assets/3c5c7b75-c0cc-4484-b23e-c21a167aa35b)
+Grafico:![image](https://github.com/user-attachments/assets/4dfac544-12ec-4aa3-ae61-070f8de4fb42)
+Metas:![image](https://github.com/user-attachments/assets/357f08d3-5456-4cf4-a9c2-01f575666e84)
